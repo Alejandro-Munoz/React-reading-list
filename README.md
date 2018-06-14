@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create React Express App
 
 ## About This Boilerplate
@@ -60,3 +61,7 @@ yarn deploy
 ```
 
 If all previous steps were followed correctly, your application should be deployed to Heroku!
+=======
+# React-reading-list
+React app to retrieve books from database
+>>>>>>> c81e2d03af3814a336d1850ccf2a6ccc8dda644c
